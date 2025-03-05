@@ -1,0 +1,119 @@
+{
+  "title": "House of the Dragon - Você é do Time Verde ou do Time Preto?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Como você reagiria a uma traição em sua casa?",
+      "options": [
+        {"id": 1, "name": "Buscaria resolver a situação com calma, tentando manter a paz e a unidade da casa", "alias": "V"},
+        {"id": 2, "name": "A traição é inaceitável, e quem a cometer deve ser punido severamente para manter a honra", "alias": "P"},
+        {"id": 3, "name": "Expulsaria o traidor e tomaria medidas para garantir que isso nunca aconteça novamente", "alias": "V"},
+        {"id": 4, "name": "A traição exige uma retaliação rápida e feroz, sem espaço para perdão", "alias": "P"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Se você fosse um Targaryen, seu dragão seria...",
+      "options": [
+        {"id": 1, "name": "Um símbolo de autoridade, usado para manter a paz e garantir a prosperidade do meu reino", "alias": "V"},
+        {"id": 2, "name": "A força imbatível, com o poder de subjugar qualquer um que se opusesse ao meu governo", "alias": "P"},
+        {"id": 3, "name": "A força de defesa da minha casa, mantendo-a segura contra qualquer ameaça externa", "alias": "V"},
+        {"id": 4, "name": "Uma máquina de guerra, destruindo tudo que estiver em meu caminho para expandir meu império", "alias": "P"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual desses valores é mais importante para você?",
+      "options": [
+        {"id": 1, "name": "Honra, lealdade e a preservação da ordem", "alias": "V"},
+        {"id": 2, "name": "Tradição, a continuidade da casa e da linhagem real", "alias": "V"},
+        {"id": 3, "name": "Liberdade, poder e a busca pela verdade, sem medo das consequências", "alias": "P"},
+        {"id": 4, "name": "Força, determinação e a luta pelo direito de governar", "alias": "P"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "O que você faria se seu rival tentasse tomar o que é seu?",
+      "options": [
+        {"id": 1, "name": "Faria alianças para garantir a vitória e preservar minha posição", "alias": "V"},
+        {"id": 2, "name": "Tomaria o que é meu por direito e destruiria qualquer um que se opusesse", "alias": "P"},
+        {"id": 3, "name": "Protegeria minha casa e garantiria que a linhagem da minha família prevalecesse", "alias": "V"},
+        {"id": 4, "name": "Lutaria até o fim, não aceitando nenhuma ameaça ao meu poder", "alias": "P"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "O que é mais importante em um rei ou rainha?",
+      "options": [
+        {"id": 1, "name": "Um governante que prioriza o bem-estar do reino e a estabilidade", "alias": "V"},
+        {"id": 2, "name": "Um líder que não tenha medo de agir com firmeza e conquistar o que é seu por direito", "alias": "P"},
+        {"id": 3, "name": "Um monarca que saiba manter a paz e as alianças, para garantir o futuro da casa", "alias": "V"},
+        {"id": 4, "name": "Um rei ou rainha que tome decisões audaciosas e imponha sua vontade sobre os outros", "alias": "P"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Como você encara a lealdade?",
+      "options": [
+        {"id": 1, "name": "Lealdade deve ser inquebrável, principalmente para com a família e a casa", "alias": "V"},
+        {"id": 2, "name": "A lealdade é importante, mas deve ser ganhada e mantida com respeito e reciprocidade", "alias": "P"},
+        {"id": 3, "name": "A lealdade é fundamental para manter a unidade e o poder da casa", "alias": "V"},
+        {"id": 4, "name": "A lealdade deve ser testada constantemente, e qualquer falha deve ser corrigida rapidamente", "alias": "P"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Se você tivesse que escolher entre poder ou amor?",
+      "options": [
+        {"id": 1, "name": "O poder é essencial para garantir a sobrevivência da minha casa e a estabilidade do reino", "alias": "V"},
+        {"id": 2, "name": "O amor é o que dá sentido à vida – sem ele, o poder não vale nada", "alias": "P"},
+        {"id": 3, "name": "O amor pode ser importante, mas sem poder, não se pode proteger quem amamos", "alias": "V"},
+        {"id": 4, "name": "O poder deve ser conquistado, e quem me ama precisa entender isso", "alias": "P"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Se você fosse um conselheiro, qual seria o seu conselho ao rei ou rainha?",
+      "options": [
+        {"id": 1, "name": "Busque alianças e mantenha a paz, mesmo que isso signifique ceder em algumas questões", "alias": "V"},
+        {"id": 2, "name": "Não tema agir com ousadia, tome o que é seu e destrua quem se opuser", "alias": "P"},
+        {"id": 3, "name": "O melhor caminho é preservar a ordem e agir com sabedoria em todas as decisões", "alias": "V"},
+        {"id": 4, "name": "O poder não se conquista por fraqueza; seja firme e mostre a todos quem é o líder", "alias": "P"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Como você lida com a política?",
+      "options": [
+        {"id": 1, "name": "Prefiro agir com cautela, mantendo alianças fortes para garantir a estabilidade", "alias": "V"},
+        {"id": 2, "name": "A política é uma guerra disfarçada, onde apenas os mais fortes prevalecem", "alias": "P"},
+        {"id": 3, "name": "Mantenho as alianças e busco proteger minha casa de qualquer ameaça externa", "alias": "V"},
+        {"id": 4, "name": "Enfrento todos os desafios politicamente, não tenho medo de usar da força para conquistar meus objetivos", "alias": "P"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "O que você prioriza na liderança?",
+      "options": [
+        {"id": 1, "name": "A unidade e o bem-estar do reino, mantendo a paz e a ordem", "alias": "V"},
+        {"id": 2, "name": "O poder e a coragem de tomar decisões radicais quando necessário", "alias": "P"},
+        {"id": 3, "name": "A habilidade de manter a lealdade das pessoas ao meu redor, preservando a integridade da casa", "alias": "V"},
+        {"id": 4, "name": "A força para liderar com autoridade e sem hesitação, mesmo que isso signifique sacrifícios", "alias": "P"}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Como você gostaria de ser lembrado(a) na história?",
+      "options": [
+        {"id": 1, "name": "Como alguém que trouxe estabilidade e manteve a ordem no reino, preservando a honra da casa", "alias": "V"},
+        {"id": 2, "name": "Como alguém que desafiou as regras, tomou o poder e construiu um império que nunca será esquecido", "alias": "P"},
+        {"id": 3, "name": "Como um líder que conseguiu unificar e fortalecer sua casa através de alianças e sabedoria", "alias": "V"},
+        {"id": 4, "name": "Como o monarca que fez sua própria história, sem se importar com as convenções, mas conquistando o que queria", "alias": "P"}
+      ]
+    }
+  ],
+  "results": {
+    "V": "Você é do Time Verde!",
+    "P": "Você é do Time Preto!"
+  }
+}
