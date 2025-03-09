@@ -1,59 +1,35 @@
-# ProjetoBuzzfeed
+# 🐉 Buzzfeed Quiz - House of the Dragon
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
+Bem-vindo(a) ao **Buzzfeed Quiz - House of the Dragon**! ⚔️ Este projeto consiste em um quiz interativo e temático baseado na série **House of the Dragon**. O objetivo do quiz é ajudar os usuários a descobrir a qual time pertencem: **Time Verde** ou **Time Preto**.
 
-## Development server
+---
 
-To start a local development server, run:
+## 📝 Descrição Geral
 
-```bash
-ng serve
-```
+O **Buzzfeed Quiz - House of the Dragon** é um quiz interativo desenvolvido para fãs da série. Através de perguntas baseadas no enredo da série, o usuário pode descobrir a qual facção (Time Verde ou Time Preto) ele pertence, de forma divertida e envolvente. O quiz foi criado com **HTML**, **CSS** e **JavaScript**, combinando interatividade e o universo de *Game of Thrones* para criar uma experiência única.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 💻 Tecnologias Utilizadas
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- ✅ **HTML**  
+- ✅ **CSS**  
+- ✅ **TypeScript**  
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 🚀 Como Executar o Projeto
 
-```bash
-ng generate --help
-```
+Você pode acessar o quiz online através do link:
 
-## Building
+[**Acesse o Quiz Online**](https://buzzfeed-hotd-n4lponklj-ana-leticias-projects-4a5d3c0f.vercel.app/)
 
-To build the project run:
+---
 
-```bash
-ng build
-```
+## 📚 Imagens do Projeto
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+![BUZZFEEDHOTD](https://github.com/user-attachments/assets/ddd873e1-a556-4685-912d-4fcaa36ebda4)
+![HOTD](https://github.com/user-attachments/assets/3dcf1f46-57a2-4693-942e-bc1898ea496e)
 
-## Running unit tests
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
 
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
