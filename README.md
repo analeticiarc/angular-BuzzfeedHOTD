@@ -6,7 +6,7 @@ Bem-vindo(a) ao **Buzzfeed Quiz - House of the Dragon**! ⚔️ Este projeto con
 
 ## 📝 Descrição Geral
 
-O **Buzzfeed Quiz - House of the Dragon** é um quiz interativo desenvolvido para fãs da série. Através de perguntas baseadas no enredo da série, o usuário pode descobrir a qual facção (Time Verde ou Time Preto) ele pertence, de forma divertida e envolvente. O quiz foi criado com **HTML**, **CSS** e **JavaScript**, combinando interatividade e o universo de *Game of Thrones* para criar uma experiência única.
+O **Buzzfeed Quiz - House of the Dragon** é um quiz interativo desenvolvido para fãs da série. Através de perguntas baseadas no enredo da série, o usuário pode descobrir a qual facção (Time Verde ou Time Preto) ele pertence, de forma divertida e envolvente. O quiz foi criado com **HTML**, **CSS** e **TypeScript**, combinando interatividade e o universo de *Game of Thrones* para criar uma experiência única.
 
 ---
 
